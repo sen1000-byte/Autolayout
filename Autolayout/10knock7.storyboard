@@ -40,8 +40,8 @@
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
-                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="セブ島" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Feg-by-Zat">
-                                                    <rect key="frame" x="80" y="28" width="94" height="37"/>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="セブ島" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Feg-by-Zat">
+                                                    <rect key="frame" x="80" y="29" width="94" height="37"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="31"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
@@ -51,6 +51,7 @@
                                                 <constraint firstItem="e66-Bk-5Kb" firstAttribute="leading" secondItem="IK1-Fx-8Qk" secondAttribute="leading" constant="10" id="WQs-7M-8T0"/>
                                                 <constraint firstItem="kJm-W1-UEN" firstAttribute="top" secondItem="IK1-Fx-8Qk" secondAttribute="top" constant="10" id="XMe-IS-0gF"/>
                                                 <constraint firstItem="kJm-W1-UEN" firstAttribute="leading" secondItem="e66-Bk-5Kb" secondAttribute="trailing" constant="10" id="br8-ZN-9fX"/>
+                                                <constraint firstItem="Feg-by-Zat" firstAttribute="top" secondItem="kJm-W1-UEN" secondAttribute="bottom" constant="2" id="pSJ-W3-aIh"/>
                                                 <constraint firstItem="Feg-by-Zat" firstAttribute="leading" secondItem="e66-Bk-5Kb" secondAttribute="trailing" constant="10" id="rQE-lZ-tIG"/>
                                                 <constraint firstItem="e66-Bk-5Kb" firstAttribute="centerY" secondItem="IK1-Fx-8Qk" secondAttribute="centerY" id="up1-2A-pss"/>
                                             </constraints>
